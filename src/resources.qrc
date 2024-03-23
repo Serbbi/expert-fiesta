@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/cat_diff.png</file>
+        <file>textures/cat_norm.png</file>
+        <file>textures/cat_spec.png</file>
+        <file>models/cat.obj</file>
+        <file>models/carrotStage4.obj</file>
+        <file>shaders/fragshader_gouraud.glsl</file>
+        <file>shaders/fragshader_lines.glsl</file>
+        <file>shaders/fragshader_phong.glsl</file>
+        <file>shaders/vertshader_gouraud.glsl</file>
+        <file>shaders/vertshader_lines.glsl</file>
+        <file>shaders/vertshader_phong.glsl</file>
+        <file>textures/carrotStage4Texture.png</file>
+        <file>models/terrain.obj</file>
+        <file>textures/noiseTexture.png</file>
+        <file>textures/noiseTextureC.png</file>
+        <file>textures/noiseTextureG.png</file>
+        <file>textures/noiseTextureGC.png</file>
+        <file>models/sun.obj</file>
+        <file>textures/sun.png</file>
+        <file>textures/starry-night-sky.jpg</file>
+        <file>models/terrain2.obj</file>
+        <file>textures/path836.png</file>
+        <file>shaders/fragshader_rainbowlayers.glsl</file>
+        <file>shaders/vertshader_rainbowlayers.glsl</file>
+    </qresource>
+</RCC>
